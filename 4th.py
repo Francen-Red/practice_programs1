@@ -7,9 +7,9 @@ while True:
 
 while True:
     try:
-        num_2 = int(input("Please input another number: "))
+        num_2 = int(input("Please input a number for exponent: "))
         break
     except:
         print("Error! Please input a valid number")
 
-print("The remainder is:", num_1 %  num_2)
+print("The result is:", num_1 ** num_2)
