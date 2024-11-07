@@ -17,8 +17,8 @@ num_9 = get_10_numbers("Please input a number: ")
 num_10 = get_10_numbers("Please input a number: ")
 
 
-total_sum = (num_1 + num_2 + num_3 + num_4 + num_5 + num_6 + num_7 + num_8 + num_9 + num_10)
-print("The sum is:", total_sum)
+total_difference = (num_1 - num_2 - num_3 - num_4 - num_5 - num_6 - num_7 - num_8 - num_9 - num_10)
+print("The difference is:", total_difference)
 
 
 
