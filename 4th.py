@@ -12,4 +12,4 @@ while True:
     except:
         print("Error! Please input a valid number")
 
-print("The difference is:", num_1 - num_2)
+print("The product is:", num_1 * num_2)
