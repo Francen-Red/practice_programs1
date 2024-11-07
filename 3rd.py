@@ -14,3 +14,6 @@ while True:
 
 if num_1 ==  num_2:
     print("Equal")
+
+if num_1 != num_2:
+    print("Not Equal")
