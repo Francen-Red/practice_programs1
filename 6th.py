@@ -8,7 +8,7 @@ for i in range(10):
         except ValueError:
             print("Error! Pls input a valid number")
 
-    if number % 2 != 0:
+    if number % 2 == 0:
         even_count += 1
 
-print("The odd numbers count is", even_count)
+print("The even numbers count is", even_count)
